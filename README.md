@@ -1,17 +1,23 @@
-### Hi there 👋
+## Hey There, I'm Ali
 
-<!--
-**amajks/amajks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do coding series and discord bots. I really enjoy learning new programming languages like Java And Javascript, i also enjoy
+coding minecraft clients, discord bots, and coding in general. You can check out my twitter at https://twitter.com/rustic_123 or https://youtube.com/@rustic123.
 
+## Skills and Experience
+* 🐍 Python
+* ☕ Java
+* 💻 HTML
 
-- **Languages**:
-    
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- 🔭 I'm currently working on a discord bot.
 
--->
+## Discord Status
+<img src="https://discord.c99.nl/widget/theme-4/1012685828423684126.png" width="512" >
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
+<br>
+<div align='left' id="contact">
+<ul>
+
+<li>
+<a href="https://instagram.com/amajk._" target="_blank">
+<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
