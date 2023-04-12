@@ -20,4 +20,4 @@ coding minecraft clients, discord bots, and coding in general. You can check out
 
 <li>
 <a href="https://instagram.com/amajk._" target="_blank">
-<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:amajk._-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
