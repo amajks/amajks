@@ -19,5 +19,5 @@ coding minecraft clients, discord bots, and coding in general. You can check out
 <ul>
 
 <li>
-<a href="[https://instagram.com/amajk._](Instagram)" target="_blank">
-<a href="[https://geekclient.amajk.repl.co/](Geek Client Website)" target="_blank">
+<a href="[Instagram](https://instagram.com/amajk._))" target="_blank">
+<a href="[Geek Client Website](https://geekclient.amajk.repl.co/)" target="_blank">
