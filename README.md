@@ -1,14 +1,14 @@
 ## Hey There, I'm Ali
 
 I do coding series and discord bots. I really enjoy learning new programming languages like Java And Javascript, i also enjoy
-coding minecraft clients, discord bots, and coding in general. You can check out my twitter at https://twitter.com/rustic_123 or https://youtube.com/@rustic123.
+coding minecraft clients, discord bots, and coding in general. You can check out my twitter at https://twitter.com/amajk_ or https://youtube.com/@amajk.
 
 ## Skills and Experience
 * 🐍 Python
 * ☕ Java
 * 💻 HTML
 
-- 🔭 I'm currently working on a discord bot.
+- 🔭 I'm currently working on nothing
 
 ## Discord Status
 <img src="https://discord.c99.nl/widget/theme-4/1012685828423684126.png" width="512" >
