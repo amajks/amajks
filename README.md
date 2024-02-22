@@ -17,6 +17,7 @@ I'm going to post my projects and some stuff here!
 <ul>
 
 <li>
+* My Website
 https://amajks.carrd.co/
-<a href="[Geek Client Website](https://amajks.carrd.co/)" target="_blank">
+------------------------
 </li>
