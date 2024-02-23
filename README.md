@@ -5,8 +5,8 @@ I'm going to post my projects and some stuff here!
 
 ## Skills and Experience
 * 🐍 Python
-* ☕ Java
 * 💻 HTML
+* 🎨 Css
 
 ## Discord Status
 <img src="https://discord.c99.nl/widget/theme-4/1012685828423684126.png" width="512" >
