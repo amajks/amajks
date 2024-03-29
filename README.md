@@ -17,7 +17,7 @@ I'm going to post my projects and some stuff here!
 <ul>
 
 <li>
-* My Website
-https://amajks.carrd.co/
+My Website
+(Link)[https://amajks.carrd.co/]
 ------------------------
 </li>
