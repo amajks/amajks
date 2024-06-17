@@ -16,7 +16,5 @@ I'm going to post my projects and some stuff here!
 <div align='left' id="contact">
 <ul>
 
-<li>
 ## My Website
   https://amajks.github.io/home/
-</li>
