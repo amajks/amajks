@@ -4,7 +4,7 @@ I'm a learning developer, i'm currently learning HTMl, Css And Python.
 I'm going to post my projects and some stuff here!
 
 ## Skills and Experience
-* 🐍 Python
+* 🐍 Python (discord.py)
 * 💻 HTML
 * 🎨 Css
 
