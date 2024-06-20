@@ -1,7 +1,6 @@
-## Hey There, I'm Amajk
+## Hey there, I'm Amajk
 
-I'm a learning developer, i'm currently learning HTMl, Css And Python.
-I'm going to post my projects and some stuff here!
+Hello! I'm amajk and i like to code and take on challenges
 
 ## Skills and Experience
 * 🐍 Python (discord.py)
